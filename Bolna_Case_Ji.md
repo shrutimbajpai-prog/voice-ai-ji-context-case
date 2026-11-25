@@ -85,7 +85,7 @@ I check the logic of each answer against the transcripts and recordings. The roo
 
 ## 8. Demo (simulated data)
 
-I used AI tools to build a simulated log of 5,000 calls (16 Sep to 24 Nov 2026), then asked it 6 plain-English questions. For each one, an AI wrote the SQL. All clients, providers and calls in it are fictional.
+I planned and wrote this case. The demo data is simulated: I generated it with AI tools (5,000 calls, 16 Sep to 24 Nov 2026), and AI wrote the SQL from my plain-English questions. All clients, providers and calls are fictional.
 
 - **The average looks fine.** The overall wrong-consent rate is 3.0% (150 calls).
 - **The combination is the problem, not one provider.** STT-B / LLM-A / TTS-B runs at 15.03% (107 of 712 calls). Every other combination sits at about 0.5–1.6%.

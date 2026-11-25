@@ -12,7 +12,7 @@ This repo has the case write-up and a working demo on a simulated call log.
 
 The 5,000-call log, the clients, the callers and the provider labels are all fictional. Providers are generic labels such as `STT-B`, `LLM-A` and `TTS-B`. None of this is Bolna production data, and no real customers are in it.
 
-I planned and wrote this case myself. The demo data was simulated with AI tools, and the SQL in the demo was written by AI from plain-English questions; it is not a claim of SQL skill.
+I planned and wrote this case. The demo data is simulated: I generated it with AI tools, and AI wrote the SQL from my plain-English questions.
 
 Failures are framed as context misreads — the words can be heard correctly and the intent still read wrong — not as a problem with a named model.
 

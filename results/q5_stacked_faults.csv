@@ -1,0 +1,5 @@
+combo_group,stack,calls,wrong_consents,wrong_consent_pct
+All other combinations,Not stacked,4149,13.0,0.3
+All other combinations,Stacked: ambiguous ji + tone + signal drop,139,30.0,21.6
+STT-B / LLM-A / TTS-B,Not stacked,434,6.0,1.4
+STT-B / LLM-A / TTS-B,Stacked: ambiguous ji + tone + signal drop,278,101.0,36.3

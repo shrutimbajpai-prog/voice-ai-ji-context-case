@@ -1,0 +1,159 @@
+call_id,date,region,dialect,ji_pairing,caller_utterance,tone_flag,signal_drop,agent_outcome,true_intent,wrong_consent,provider_combo
+CALL-20260916-03801,2026-09-16,Telangana,Hyderabadi,bas ji,Bas ji,rising,True,payment_scheduled,stop,True,STT-A / LLM-B / TTS-B
+CALL-20260918-03698,2026-09-18,Uttar Pradesh,standard Hindi,achha ji?,Achha ji?,neutral,False,renewal_confirmed,question,True,STT-A / LLM-B / TTS-B
+CALL-20260919-02476,2026-09-19,Telangana,Hyderabadi,hun ji,Hun ji...,muffled,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20260921-01790,2026-09-21,Bihar,Bhojpuri,ji?,Ji?,muffled,True,slot_booked,question,True,STT-B / LLM-A / TTS-B
+CALL-20260921-02427,2026-09-21,Punjab,Punjabi,ji?,Ji,rushed,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20260923-01473,2026-09-23,Rajasthan,Marwari,hun ji,Hun ji,soft,False,slot_booked,acknowledge,True,STT-B / LLM-B / TTS-B
+CALL-20260923-01517,2026-09-23,Telangana,Hyderabadi,hun ji,Hun ji.,sarcastic,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20260924-00619,2026-09-24,Telangana,Hyderabadi,ji?,Ji?,sarcastic,True,slot_booked,question,True,STT-A / LLM-B / TTS-A
+CALL-20260924-02399,2026-09-24,Punjab,Punjabi,hun ji,Hun ji...,muffled,True,renewal_confirmed,listening,True,STT-B / LLM-A / TTS-B
+CALL-20260924-02513,2026-09-24,Delhi,standard Hindi,hun ji,Hun ji,rising,True,slot_booked,listening,True,STT-B / LLM-A / TTS-B
+CALL-20260925-01602,2026-09-25,Uttar Pradesh,standard Hindi,ji?,Ji,rushed,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-LOOP1-01,2026-09-29,Punjab,Punjabi,hun ji,Hun ji...,soft,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20260930-00112,2026-09-30,Delhi,standard Hindi,achha ji?,Achha ji?,rising,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20260930-04648,2026-09-30,Bihar,Bhojpuri,ji?,Ji,rushed,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20261002-01741,2026-10-02,Punjab,Punjabi,achha ji?,Achha ji?,soft,False,slot_booked,question,True,STT-B / LLM-A / TTS-B
+CALL-20261005-04546,2026-10-05,Telangana,Hyderabadi,ji?,Ji?,muffled,True,slot_booked,question,True,STT-B / LLM-A / TTS-B
+CALL-20261007-01971,2026-10-07,Bihar,Bhojpuri,bas ji,Bas ji,neutral,False,payment_scheduled,stop,True,STT-C / LLM-A / TTS-A
+CALL-20261008-00323,2026-10-08,Haryana,Haryanvi,bas ji,Bas ji,rushed,True,slot_booked,stop,True,STT-B / LLM-A / TTS-B
+CALL-20261009-01499,2026-10-09,Uttar Pradesh,standard Hindi,bas ji,Bas ji,rushed,True,slot_booked,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261009-02250,2026-10-09,Delhi,standard Hindi,ji?,Ji?,sarcastic,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20261010-02315,2026-10-10,Rajasthan,Marwari,bas ji,Bas ji,muffled,True,payment_scheduled,stop,True,STT-B / LLM-A / TTS-B
+CALL-20261013-01214,2026-10-13,Uttar Pradesh,standard Hindi,hun ji,Hun ji...,muffled,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-A
+CALL-20261013-02081,2026-10-13,Delhi,standard Hindi,achha ji?,Achha ji?,rushed,True,payment_scheduled,unsure,True,STT-C / LLM-A / TTS-A
+CALL-20261014-01637,2026-10-14,Punjab,Punjabi,hun ji,Hun ji...,rushed,True,payment_scheduled,listening,True,STT-A / LLM-A / TTS-A
+CALL-20261014-04462,2026-10-14,Telangana,Hyderabadi,bas ji,Bas ji,muffled,True,slot_booked,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261015-02034,2026-10-15,Telangana,Hyderabadi,bas ji,Bas ji.,rushed,True,payment_scheduled,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261019-00311,2026-10-19,Uttar Pradesh,standard Hindi,achha ji?,Achha ji?,muffled,True,payment_scheduled,unsure,True,STT-B / LLM-A / TTS-B
+CALL-20261019-01480,2026-10-19,Uttar Pradesh,standard Hindi,hun ji,Hun ji,soft,True,slot_booked,listening,True,STT-A / LLM-B / TTS-B
+CALL-20261019-02363,2026-10-19,Haryana,Haryanvi,bas ji,Bas ji.,soft,True,payment_scheduled,stop,True,STT-B / LLM-A / TTS-B
+CALL-20261019-04754,2026-10-19,Delhi,standard Hindi,ji?,Ji?,soft,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-A
+CALL-20261020-00959,2026-10-20,Punjab,Punjabi,ji?,Ji?,rising,True,slot_booked,question,True,STT-B / LLM-A / TTS-B
+CALL-20261020-04448,2026-10-20,Rajasthan,Marwari,achha ji?,Achha ji?,rising,True,slot_booked,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261023-02048,2026-10-23,Punjab,Punjabi,hun ji,Hun ji,soft,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261023-02456,2026-10-23,Delhi,standard Hindi,ji?,Ji,sarcastic,True,payment_scheduled,question,True,STT-A / LLM-B / TTS-A
+CALL-20261026-00465,2026-10-26,Punjab,Punjabi,hun ji,Hun ji...,rising,True,payment_scheduled,acknowledge,True,STT-C / LLM-B / TTS-A
+CALL-20261031-03796,2026-10-31,Punjab,Punjabi,hun ji,Hun ji,rising,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261102-03346,2026-11-02,Telangana,Hyderabadi,hun ji,Hun ji...,rushed,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261103-00318,2026-11-03,Bihar,Bhojpuri,bas ji,Bas ji.,rising,True,slot_booked,stop,True,STT-B / LLM-A / TTS-B
+CALL-20261105-02647,2026-11-05,Uttar Pradesh,standard Hindi,hun ji,Hun ji,sarcastic,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261111-03593,2026-11-11,Telangana,Hyderabadi,achha ji?,Achha ji?,rising,True,renewal_confirmed,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261112-00241,2026-11-12,Punjab,Punjabi,hun ji,Hun ji,sarcastic,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261114-00948,2026-11-14,Haryana,Haryanvi,ji?,Ji?,muffled,False,payment_scheduled,question,True,STT-C / LLM-A / TTS-B
+CALL-20261118-01759,2026-11-18,Punjab,Punjabi,bas ji,Bas ji.,muffled,True,payment_scheduled,stop,True,STT-A / LLM-A / TTS-A
+CALL-20261118-04287,2026-11-18,Uttar Pradesh,standard Hindi,hun ji,Hun ji,rushed,True,renewal_confirmed,acknowledge,True,STT-B / LLM-A / TTS-B
+CALL-20261118-04588,2026-11-18,Delhi,standard Hindi,bas ji,Bas ji.,rising,True,slot_booked,stop,True,STT-C / LLM-B / TTS-B
+CALL-20261119-01285,2026-11-19,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,slot_booked,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261119-01986,2026-11-19,Bihar,Bhojpuri,achha ji?,Achha ji?,muffled,True,slot_booked,question,True,STT-C / LLM-A / TTS-B
+CALL-20261120-00340,2026-11-20,Punjab,Punjabi,hun ji,Hun ji,sarcastic,True,payment_scheduled,acknowledge,True,STT-B / LLM-A / TTS-B
+CALL-20261121-01593,2026-11-21,Uttar Pradesh,standard Hindi,hun ji,Hun ji...,soft,True,payment_scheduled,listening,True,STT-B / LLM-B / TTS-A
+CALL-20261121-04346,2026-11-21,Punjab,Punjabi,hun ji,Hun ji...,sarcastic,True,slot_booked,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261123-01956,2026-11-23,Rajasthan,Marwari,achha ji?,Achha ji?,sarcastic,True,slot_booked,question,True,STT-C / LLM-B / TTS-B
+CALL-20261123-04231,2026-11-23,Uttar Pradesh,standard Hindi,hun ji,Hun ji...,rising,False,renewal_confirmed,listening,True,STT-A / LLM-A / TTS-B
+CALL-20260916-01158,2026-09-16,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-B
+CALL-20260916-01952,2026-09-16,Telangana,Hyderabadi,ji ji ji,Ji ji ji,neutral,False,renewal_confirmed,yes,False,STT-A / LLM-A / TTS-A
+CALL-20260916-04838,2026-09-16,Rajasthan,Marwari,haan ji,Haan ji,rising,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-B
+CALL-20260917-00069,2026-09-17,Delhi,standard Hindi,haan ji,Haan ji,sarcastic,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20260917-00239,2026-09-17,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,slot_booked,yes,False,STT-A / LLM-A / TTS-B
+CALL-20260918-00723,2026-09-18,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-A
+CALL-20260919-00821,2026-09-19,Delhi,standard Hindi,haan ji,Haan ji,neutral,True,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-B
+CALL-20260919-01444,2026-09-19,Punjab,Punjabi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20260919-03680,2026-09-19,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,slot_booked,yes,False,STT-A / LLM-B / TTS-A
+CALL-20260919-04636,2026-09-19,Delhi,standard Hindi,haan ji,Haan ji.,sarcastic,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20260920-04333,2026-09-20,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20260921-01535,2026-09-21,Uttar Pradesh,standard Hindi,haan ji,Haan ji,soft,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-B
+CALL-20260921-04336,2026-09-21,Bihar,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20260922-03052,2026-09-22,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20260923-00060,2026-09-23,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,True,slot_booked,yes,False,STT-B / LLM-B / TTS-B
+CALL-20260923-03257,2026-09-23,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-A / TTS-B
+CALL-20260924-00335,2026-09-24,Punjab,Punjabi,haan ji,Haan ji,sarcastic,False,renewal_confirmed,yes,False,STT-B / LLM-A / TTS-B
+CALL-20260925-01757,2026-09-25,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20260925-02477,2026-09-25,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20260925-03929,2026-09-25,Rajasthan,Marwari,ji ji ji,Ji ji ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-B
+CALL-20260925-04539,2026-09-25,Punjab,standard Hindi,ji ji ji,Ji ji ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20260926-01396,2026-09-26,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,slot_booked,yes,False,STT-C / LLM-B / TTS-B
+CALL-20260926-01784,2026-09-26,Bihar,Bhojpuri,haan ji,Haan ji,sarcastic,False,renewal_confirmed,yes,False,STT-A / LLM-A / TTS-B
+CALL-20260926-02916,2026-09-26,Telangana,Hyderabadi,haan ji,Haan ji,neutral,False,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-B
+CALL-20260926-03425,2026-09-26,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20260926-03618,2026-09-26,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20260927-00084,2026-09-27,Rajasthan,Marwari,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-A / TTS-B
+CALL-20260930-03667,2026-09-30,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20260930-04201,2026-09-30,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261003-03936,2026-10-03,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261004-01608,2026-10-04,Delhi,standard Hindi,haan ji,Haan ji,muffled,False,renewal_confirmed,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261005-02982,2026-10-05,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261006-01521,2026-10-06,Uttar Pradesh,standard Hindi,ji ji ji,Ji ji ji,neutral,False,slot_booked,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261006-03190,2026-10-06,Uttar Pradesh,standard Hindi,haan ji,Haan ji,rushed,False,slot_booked,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261007-00068,2026-10-07,Punjab,Punjabi,ji ji ji,Ji ji ji,neutral,False,renewal_confirmed,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261007-02294,2026-10-07,Delhi,standard Hindi,haan ji,Haan ji,sarcastic,False,slot_booked,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261007-04672,2026-10-07,Punjab,Punjabi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261008-03361,2026-10-08,Telangana,Hyderabadi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-B
+CALL-20261008-03366,2026-10-08,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261009-01455,2026-10-09,Rajasthan,Marwari,haan ji,Haan ji,neutral,False,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261009-04710,2026-10-09,Bihar,Bhojpuri,haan ji,Haan ji,rushed,False,payment_scheduled,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261012-01503,2026-10-12,Punjab,Punjabi,ji ji ji,Ji ji ji,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261013-01187,2026-10-13,Bihar,Bhojpuri,haan ji,Haan ji,soft,False,renewal_confirmed,yes,False,STT-A / LLM-A / TTS-B
+CALL-20261013-01546,2026-10-13,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261013-03587,2026-10-13,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,slot_booked,yes,False,STT-C / LLM-A / TTS-B
+CALL-20261014-03876,2026-10-14,Bihar,Bhojpuri,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261015-00486,2026-10-15,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261016-02208,2026-10-16,Rajasthan,Marwari,haan ji,Haan ji,rising,False,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261016-02672,2026-10-16,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261017-01833,2026-10-17,Punjab,Punjabi,ji ji ji,Ji ji ji,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261017-04018,2026-10-17,Punjab,Punjabi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261018-01545,2026-10-18,Haryana,standard Hindi,haan ji,Haan ji,soft,False,payment_scheduled,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261019-04896,2026-10-19,Punjab,Punjabi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261020-01474,2026-10-20,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261020-04475,2026-10-20,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,rising,False,renewal_confirmed,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261021-02717,2026-10-21,Telangana,Hyderabadi,haan ji,Haan ji,neutral,True,renewal_confirmed,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261021-04373,2026-10-21,Telangana,Hyderabadi,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261022-01259,2026-10-22,Haryana,Haryanvi,haan ji,Haan ji.,soft,False,renewal_confirmed,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261023-04053,2026-10-23,Bihar,Bhojpuri,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261024-01724,2026-10-24,Punjab,Punjabi,haan ji,Haan ji,neutral,False,renewal_confirmed,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261024-02627,2026-10-24,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261024-03431,2026-10-24,Uttar Pradesh,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261026-00133,2026-10-26,Punjab,Punjabi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261027-01307,2026-10-27,Uttar Pradesh,standard Hindi,haan ji,Haan ji,rising,False,slot_booked,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261027-04294,2026-10-27,Uttar Pradesh,standard Hindi,haan ji,Haan ji,sarcastic,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261028-00425,2026-10-28,Haryana,Haryanvi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261028-04713,2026-10-28,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261030-04771,2026-10-30,Delhi,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261031-03980,2026-10-31,Haryana,Haryanvi,ji ji ji,Ji ji ji,neutral,False,slot_booked,yes,False,STT-A / LLM-A / TTS-B
+CALL-20261102-00156,2026-11-02,Telangana,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-A / TTS-B
+CALL-20261102-02502,2026-11-02,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261104-03512,2026-11-04,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,sarcastic,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261105-01640,2026-11-05,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,True,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261105-03074,2026-11-05,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,slot_booked,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261106-02793,2026-11-06,Haryana,Haryanvi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-B
+CALL-20261107-01817,2026-11-07,Rajasthan,Marwari,ji ji ji,Ji ji ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261107-03013,2026-11-07,Haryana,Haryanvi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261109-04557,2026-11-09,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261110-00715,2026-11-10,Uttar Pradesh,standard Hindi,ji ji ji,Ji ji ji,sarcastic,True,renewal_confirmed,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261111-00327,2026-11-11,Bihar,Bhojpuri,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-A
+CALL-20261111-02027,2026-11-11,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261111-04853,2026-11-11,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261114-00774,2026-11-14,Punjab,Punjabi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261114-03149,2026-11-14,Haryana,Haryanvi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261116-02270,2026-11-16,Punjab,Punjabi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261116-02700,2026-11-16,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261116-03338,2026-11-16,Uttar Pradesh,standard Hindi,ji ji ji,Ji ji ji,sarcastic,False,slot_booked,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261116-04841,2026-11-16,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261116-04904,2026-11-16,Uttar Pradesh,standard Hindi,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261118-00714,2026-11-18,Punjab,Punjabi,ji ji ji,Ji ji ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261118-03662,2026-11-18,Haryana,Haryanvi,ji ji ji,Ji ji ji,neutral,True,slot_booked,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261118-03732,2026-11-18,Punjab,Punjabi,haan ji,Haan ji,rising,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261119-01083,2026-11-19,Bihar,Bhojpuri,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-A / LLM-A / TTS-B
+CALL-20261119-02066,2026-11-19,Haryana,Haryanvi,ji ji ji,Ji ji ji,sarcastic,False,slot_booked,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261119-02762,2026-11-19,Delhi,standard Hindi,haan ji,Haan ji.,sarcastic,False,payment_scheduled,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261119-03924,2026-11-19,Haryana,Haryanvi,ji ji ji,Ji ji ji,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261120-00937,2026-11-20,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261120-01439,2026-11-20,Punjab,Punjabi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-A
+CALL-20261120-01459,2026-11-20,Haryana,Haryanvi,haan ji,Haan ji,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261120-03719,2026-11-20,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261121-00967,2026-11-21,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,renewal_confirmed,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261122-03470,2026-11-22,Punjab,Punjabi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261123-02547,2026-11-23,Bihar,Bhojpuri,ji ji ji,Ji ji ji,neutral,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261124-02148,2026-11-24,Rajasthan,Marwari,haan ji,Haan ji.,neutral,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261124-02311,2026-11-24,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261124-04543,2026-11-24,Delhi,standard Hindi,haan ji,Haan ji,neutral,False,slot_booked,yes,False,STT-A / LLM-A / TTS-B

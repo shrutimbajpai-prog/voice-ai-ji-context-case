@@ -1,0 +1,102 @@
+dialect,ji_pairing,provider_combo,calls,wrong_consents,wrong_consent_pct
+Hyderabadi,achha ji?,STT-B / LLM-A / TTS-B,17,7.0,41.2
+Bhojpuri,ji?,STT-B / LLM-A / TTS-B,20,8.0,40.0
+Hyderabadi,bas ji,STT-B / LLM-A / TTS-B,16,5.0,31.3
+Punjabi,ji?,STT-B / LLM-A / TTS-B,26,8.0,30.8
+standard Hindi,hun ji,STT-B / LLM-A / TTS-B,18,5.0,27.8
+Marwari,bas ji,STT-B / LLM-A / TTS-B,15,4.0,26.7
+Punjabi,hun ji,STT-B / LLM-A / TTS-B,59,15.0,25.4
+Punjabi,achha ji?,STT-B / LLM-A / TTS-B,21,5.0,23.8
+standard Hindi,achha ji?,STT-B / LLM-A / TTS-B,31,7.0,22.6
+standard Hindi,ji?,STT-B / LLM-A / TTS-B,52,9.0,17.3
+standard Hindi,ji?,STT-A / LLM-B / TTS-A,24,2.0,8.3
+standard Hindi,bas ji,STT-B / LLM-A / TTS-B,26,2.0,7.7
+Hyderabadi,haan ji,STT-B / LLM-A / TTS-B,15,1.0,6.7
+Hyderabadi,haan ji,STT-C / LLM-B / TTS-B,16,1.0,6.3
+standard Hindi,ji?,STT-C / LLM-A / TTS-B,16,1.0,6.3
+standard Hindi,ji?,STT-A / LLM-A / TTS-B,17,1.0,5.9
+standard Hindi,bas ji,STT-B / LLM-B / TTS-A,19,1.0,5.3
+standard Hindi,ji?,STT-B / LLM-A / TTS-A,19,1.0,5.3
+standard Hindi,hun ji,STT-A / LLM-B / TTS-B,21,1.0,4.8
+standard Hindi,ji?,STT-C / LLM-B / TTS-A,22,1.0,4.5
+Punjabi,haan ji,STT-B / LLM-A / TTS-B,28,1.0,3.6
+standard Hindi,nahi ji,STT-A / LLM-B / TTS-B,34,1.0,2.9
+standard Hindi,haan ji,STT-A / LLM-B / TTS-A,75,0.0,0.0
+standard Hindi,haan ji,STT-C / LLM-A / TTS-B,68,0.0,0.0
+standard Hindi,haan ji,STT-B / LLM-B / TTS-A,66,0.0,0.0
+standard Hindi,haan ji,STT-A / LLM-B / TTS-B,64,0.0,0.0
+standard Hindi,haan ji,STT-C / LLM-A / TTS-A,60,0.0,0.0
+standard Hindi,haan ji,STT-A / LLM-A / TTS-B,59,0.0,0.0
+standard Hindi,haan ji,STT-B / LLM-A / TTS-A,58,0.0,0.0
+standard Hindi,haan ji,STT-C / LLM-B / TTS-A,57,0.0,0.0
+standard Hindi,haan ji,STT-C / LLM-B / TTS-B,56,0.0,0.0
+standard Hindi,haan ji,STT-A / LLM-A / TTS-A,55,0.0,0.0
+standard Hindi,haan ji,STT-B / LLM-B / TTS-B,50,0.0,0.0
+standard Hindi,haan ji,STT-B / LLM-A / TTS-B,47,0.0,0.0
+standard Hindi,nahi ji,STT-C / LLM-A / TTS-A,37,0.0,0.0
+standard Hindi,nahi ji,STT-B / LLM-A / TTS-B,36,0.0,0.0
+standard Hindi,nahi ji,STT-B / LLM-B / TTS-A,35,0.0,0.0
+standard Hindi,nahi ji,STT-C / LLM-A / TTS-B,34,0.0,0.0
+standard Hindi,nahi ji,STT-A / LLM-B / TTS-A,31,0.0,0.0
+standard Hindi,nahi ji,STT-B / LLM-B / TTS-B,30,0.0,0.0
+standard Hindi,nahi ji,STT-C / LLM-B / TTS-A,29,0.0,0.0
+standard Hindi,nahi ji,STT-A / LLM-A / TTS-A,28,0.0,0.0
+standard Hindi,nahi ji,STT-C / LLM-B / TTS-B,27,0.0,0.0
+standard Hindi,ji ji ji,STT-B / LLM-A / TTS-B,26,0.0,0.0
+standard Hindi,nahi ji,STT-A / LLM-A / TTS-B,25,0.0,0.0
+Bhojpuri,haan ji,STT-A / LLM-A / TTS-A,25,0.0,0.0
+Hyderabadi,haan ji,STT-C / LLM-A / TTS-B,24,0.0,0.0
+standard Hindi,achha ji?,STT-C / LLM-A / TTS-B,23,0.0,0.0
+Haryanvi,haan ji,STT-C / LLM-A / TTS-B,23,0.0,0.0
+Hyderabadi,haan ji,STT-B / LLM-B / TTS-A,22,0.0,0.0
+Bhojpuri,haan ji,STT-C / LLM-B / TTS-A,22,0.0,0.0
+Haryanvi,haan ji,STT-B / LLM-B / TTS-A,22,0.0,0.0
+Marwari,haan ji,STT-A / LLM-A / TTS-B,22,0.0,0.0
+standard Hindi,ji ji ji,STT-C / LLM-B / TTS-A,22,0.0,0.0
+standard Hindi,nahi ji,STT-B / LLM-A / TTS-A,21,0.0,0.0
+Bhojpuri,haan ji,STT-A / LLM-A / TTS-B,21,0.0,0.0
+standard Hindi,ji ji ji,STT-A / LLM-B / TTS-B,21,0.0,0.0
+standard Hindi,ji ji ji,STT-C / LLM-A / TTS-B,21,0.0,0.0
+standard Hindi,achha ji?,STT-A / LLM-B / TTS-A,20,0.0,0.0
+standard Hindi,ji?,STT-C / LLM-B / TTS-B,20,0.0,0.0
+Hyderabadi,haan ji,STT-A / LLM-B / TTS-A,19,0.0,0.0
+Haryanvi,haan ji,STT-A / LLM-A / TTS-B,19,0.0,0.0
+Hyderabadi,haan ji,STT-B / LLM-B / TTS-B,19,0.0,0.0
+Marwari,haan ji,STT-C / LLM-A / TTS-B,19,0.0,0.0
+Marwari,haan ji,STT-C / LLM-B / TTS-A,19,0.0,0.0
+Hyderabadi,haan ji,STT-A / LLM-B / TTS-B,19,0.0,0.0
+standard Hindi,ji ji ji,STT-B / LLM-B / TTS-B,19,0.0,0.0
+Marwari,haan ji,STT-A / LLM-B / TTS-A,19,0.0,0.0
+Punjabi,nahi ji,STT-B / LLM-A / TTS-A,19,0.0,0.0
+standard Hindi,ji?,STT-C / LLM-A / TTS-A,19,0.0,0.0
+standard Hindi,bas ji,STT-A / LLM-B / TTS-B,18,0.0,0.0
+standard Hindi,ji ji ji,STT-C / LLM-B / TTS-B,18,0.0,0.0
+standard Hindi,ji ji ji,STT-A / LLM-A / TTS-B,18,0.0,0.0
+Hyderabadi,haan ji,STT-B / LLM-A / TTS-A,18,0.0,0.0
+Punjabi,haan ji,STT-B / LLM-A / TTS-A,18,0.0,0.0
+Marwari,haan ji,STT-B / LLM-A / TTS-A,18,0.0,0.0
+Haryanvi,haan ji,STT-A / LLM-B / TTS-B,17,0.0,0.0
+Punjabi,ji ji ji,STT-B / LLM-A / TTS-B,17,0.0,0.0
+Bhojpuri,haan ji,STT-B / LLM-B / TTS-A,17,0.0,0.0
+Punjabi,haan ji,STT-A / LLM-B / TTS-B,17,0.0,0.0
+Punjabi,haan ji,STT-A / LLM-A / TTS-A,17,0.0,0.0
+Bhojpuri,haan ji,STT-C / LLM-A / TTS-A,17,0.0,0.0
+standard Hindi,bas ji,STT-C / LLM-A / TTS-B,17,0.0,0.0
+Haryanvi,haan ji,STT-C / LLM-B / TTS-A,17,0.0,0.0
+standard Hindi,achha ji?,STT-A / LLM-A / TTS-A,17,0.0,0.0
+standard Hindi,achha ji?,STT-B / LLM-A / TTS-A,17,0.0,0.0
+standard Hindi,achha ji?,STT-C / LLM-B / TTS-B,16,0.0,0.0
+standard Hindi,ji?,STT-A / LLM-A / TTS-A,16,0.0,0.0
+Punjabi,hun ji,STT-C / LLM-A / TTS-B,16,0.0,0.0
+standard Hindi,ji?,STT-B / LLM-B / TTS-B,16,0.0,0.0
+standard Hindi,bas ji,STT-A / LLM-A / TTS-A,16,0.0,0.0
+standard Hindi,achha ji?,STT-A / LLM-A / TTS-B,16,0.0,0.0
+Punjabi,haan ji,STT-C / LLM-B / TTS-A,15,0.0,0.0
+standard Hindi,achha ji?,STT-B / LLM-B / TTS-A,15,0.0,0.0
+Marwari,haan ji,STT-A / LLM-B / TTS-B,15,0.0,0.0
+Hyderabadi,haan ji,STT-A / LLM-A / TTS-A,15,0.0,0.0
+Hyderabadi,haan ji,STT-C / LLM-A / TTS-A,15,0.0,0.0
+standard Hindi,ji?,STT-B / LLM-B / TTS-A,15,0.0,0.0
+standard Hindi,ji ji ji,STT-A / LLM-A / TTS-A,15,0.0,0.0
+standard Hindi,hun ji,STT-C / LLM-A / TTS-B,15,0.0,0.0
+Bhojpuri,haan ji,STT-B / LLM-B / TTS-B,15,0.0,0.0

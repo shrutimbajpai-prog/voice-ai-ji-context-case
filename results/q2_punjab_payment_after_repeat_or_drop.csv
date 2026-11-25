@@ -1,0 +1,43 @@
+call_id,date,client,dialect,ji_pairing,caller_utterance,tone_flag,retries,signal_drop,partial_reply,agent_outcome,true_intent,wrong_consent,provider_combo
+CALL-20260921-02427,2026-09-21,XYZ Finance,Punjabi,ji?,Ji,rushed,2,True,False,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20260922-00869,2026-09-22,Apex Credit,Punjabi,achha ji?,Achha ji? Aaj hi?,muffled,1,True,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-LOOP1-01,2026-09-29,XYZ Finance,Punjabi,hun ji,Hun ji...,soft,1,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-LOOP1-02,2026-09-29,XYZ Finance,Punjabi,hun ji,"Ji, ke keh rahe...",rising,2,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-LOOP1-03,2026-09-30,XYZ Finance,Punjabi,hun ji,"Ji, main jaanta hoon, par... 2 din aur... lag jayenge ji",muffled,3,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-LOOP1-04,2026-09-30,XYZ Finance,Punjabi,hun ji,"Hun ji, sun raha haan",rushed,4,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261008-00975,2026-10-08,XYZ Finance,standard Hindi,hun ji,"Hun ji, sun raha hoon",muffled,1,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261014-01637,2026-10-14,Apex Credit,Punjabi,hun ji,Hun ji...,rushed,0,True,True,payment_scheduled,listening,True,STT-A / LLM-A / TTS-A
+CALL-20261015-03700,2026-10-15,XYZ Finance,standard Hindi,bas ji,"Bas ji, ab mat phone karo",sarcastic,1,True,True,payment_scheduled,defer,True,STT-B / LLM-A / TTS-B
+CALL-20261016-01430,2026-10-16,XYZ Finance,Punjabi,bas ji,"Bas ji, ho gaya meri taraf se",muffled,1,True,True,payment_scheduled,stop,True,STT-B / LLM-A / TTS-B
+CALL-20261020-01725,2026-10-20,XYZ Finance,Punjabi,hun ji,Hun ji bolo,soft,0,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261022-01132,2026-10-22,XYZ Finance,Punjabi,hun ji,"Hun ji, sun raha hoon",rising,2,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261023-02048,2026-10-23,XYZ Finance,Punjabi,hun ji,Hun ji,soft,0,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261026-00465,2026-10-26,Apex Credit,Punjabi,hun ji,Hun ji...,rising,2,True,True,payment_scheduled,acknowledge,True,STT-C / LLM-B / TTS-A
+CALL-20261031-00223,2026-10-31,Apex Credit,Punjabi,ji?,"Ji, sunai nahi ditta",rushed,1,True,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20261031-03796,2026-10-31,XYZ Finance,Punjabi,hun ji,Hun ji,rising,2,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261107-01953,2026-11-07,Apex Credit,Punjabi,achha ji?,Achha ji? Aaj hi?,sarcastic,2,True,True,payment_scheduled,unsure,True,STT-B / LLM-A / TTS-B
+CALL-20261107-04509,2026-11-07,XYZ Finance,Punjabi,bas ji,"Bas ji, theek hai",rushed,0,True,True,payment_scheduled,stop,True,STT-A / LLM-A / TTS-A
+CALL-20261110-04933,2026-11-10,Apex Credit,Punjabi,ji?,Ji? Dobara dasso,rising,2,True,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20261111-01909,2026-11-11,XYZ Finance,Punjabi,achha ji?,Achha ji? Main soch loon,sarcastic,0,True,True,payment_scheduled,question,True,STT-B / LLM-A / TTS-B
+CALL-20261112-00241,2026-11-12,XYZ Finance,Punjabi,hun ji,Hun ji,sarcastic,0,True,True,payment_scheduled,listening,True,STT-B / LLM-A / TTS-B
+CALL-20261118-01759,2026-11-18,Apex Credit,Punjabi,bas ji,Bas ji.,muffled,0,True,True,payment_scheduled,stop,True,STT-A / LLM-A / TTS-A
+CALL-20261120-00340,2026-11-20,XYZ Finance,Punjabi,hun ji,Hun ji,sarcastic,2,True,True,payment_scheduled,acknowledge,True,STT-B / LLM-A / TTS-B
+CALL-20261123-01412,2026-11-23,XYZ Finance,Punjabi,bas ji,"Bas ji, theek hai",soft,1,True,True,payment_scheduled,stop,True,STT-B / LLM-A / TTS-B
+CALL-20260919-04942,2026-09-19,XYZ Finance,Punjabi,haan ji,"Haan ji, ho jayega",neutral,1,False,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20260928-01225,2026-09-28,Apex Credit,Punjabi,haan ji,"Haan ji, samajh gaya",neutral,1,False,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20260929-01628,2026-09-29,XYZ Finance,Punjabi,haan ji,"Haan ji, samajh gaya",soft,1,True,True,payment_scheduled,yes,False,STT-B / LLM-B / TTS-B
+CALL-20261001-02876,2026-10-01,XYZ Finance,Punjabi,haan ji,"Haan ji, ho jayega",muffled,1,False,False,payment_scheduled,yes,False,STT-C / LLM-A / TTS-B
+CALL-20261005-02459,2026-10-05,XYZ Finance,Punjabi,haan ji,"Haan ji, theek hai bolo",muffled,1,False,True,payment_scheduled,yes,False,STT-A / LLM-B / TTS-A
+CALL-20261006-03011,2026-10-06,XYZ Finance,Punjabi,haan ji,"Haan ji, samajh gaya",neutral,1,True,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261008-01288,2026-10-08,XYZ Finance,Punjabi,ji ji ji,"Ji ji, haan pata hai",neutral,1,False,False,payment_scheduled,yes,False,STT-A / LLM-A / TTS-B
+CALL-20261013-00220,2026-10-13,XYZ Finance,Punjabi,haan ji,"Haan ji, kar dena",neutral,2,False,True,payment_scheduled,yes,False,STT-B / LLM-B / TTS-A
+CALL-20261016-00177,2026-10-16,Apex Credit,Punjabi,haan ji,"Haan ji, aaj kar doonga",neutral,1,False,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261019-03546,2026-10-19,XYZ Finance,Punjabi,haan ji,"Haan ji, theek hai",neutral,1,False,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261022-02564,2026-10-22,Apex Credit,standard Hindi,haan ji,"Haan ji, kar dena",neutral,1,False,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261024-01031,2026-10-24,XYZ Finance,Punjabi,haan ji,"Haan ji, ho jayega",neutral,1,False,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-B
+CALL-20261027-02926,2026-10-27,XYZ Finance,Punjabi,haan ji,"Haan ji, ho jayega",rushed,1,False,False,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261106-03488,2026-11-06,XYZ Finance,Punjabi,haan ji,"Haan ji, ho jayega",rushed,1,False,False,payment_scheduled,yes,False,STT-B / LLM-A / TTS-B
+CALL-20261111-04979,2026-11-11,Apex Credit,Punjabi,haan ji,"Haan ji, samajh gaya",neutral,1,False,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A
+CALL-20261112-01144,2026-11-12,Apex Credit,Punjabi,haan ji,"Haan ji, ho jayega",soft,2,False,True,payment_scheduled,yes,False,STT-B / LLM-A / TTS-A
+CALL-20261114-04319,2026-11-14,XYZ Finance,Punjabi,haan ji,"Haan ji, samajh gaya",neutral,1,False,True,payment_scheduled,yes,False,STT-A / LLM-B / TTS-B
+CALL-20261118-04024,2026-11-18,Apex Credit,Punjabi,haan ji,"Haan ji, kar dena",neutral,2,True,False,payment_scheduled,yes,False,STT-C / LLM-B / TTS-A

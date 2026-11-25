@@ -1,0 +1,6 @@
+call_id,call_date,complaint_date,caller_id,client,region,dialect,ji_pairing,retries,agent_outcome,true_intent,complaints_in_10_days_from_this_date
+CALL-LOOP1-04,2026-09-30,2026-10-01,CLR-1001,XYZ Finance,Punjab,Punjabi,hun ji,4,payment_scheduled,listening,2
+CALL-CMP-02,2026-10-07,2026-10-09,CLR-2002,XYZ Finance,Telangana,Hyderabadi,achha ji?,1,payment_scheduled,defer,1
+CALL-CMP-03,2026-10-22,2026-10-24,CLR-2003,Apex Credit,Rajasthan,Marwari,bas ji,1,payment_scheduled,stop,1
+CALL-CMP-04,2026-11-06,2026-11-08,CLR-2004,XYZ Finance,Bihar,Bhojpuri,ji?,1,payment_scheduled,question,1
+CALL-CMP-05,2026-11-18,2026-11-20,CLR-2005,HireLink Staffing,Delhi,standard Hindi,ji?,1,slot_booked,question,1

@@ -1,0 +1,5 @@
+call_id,date,caller_id,client,region,dialect,ji_pairing,caller_utterance,tone_flag,signal_drop,partial_reply,retries,agent_outcome,true_intent,wrong_consent
+CALL-LOOP1-01,2026-09-29,CLR-1001,XYZ Finance,Punjab,Punjabi,hun ji,Hun ji...,soft,True,True,1,payment_scheduled,listening,True
+CALL-LOOP1-02,2026-09-29,CLR-1001,XYZ Finance,Punjab,Punjabi,hun ji,"Ji, ke keh rahe...",rising,True,True,2,payment_scheduled,listening,True
+CALL-LOOP1-03,2026-09-30,CLR-1001,XYZ Finance,Punjab,Punjabi,hun ji,"Ji, main jaanta hoon, par... 2 din aur... lag jayenge ji",muffled,True,True,3,payment_scheduled,listening,True
+CALL-LOOP1-04,2026-09-30,CLR-1001,XYZ Finance,Punjab,Punjabi,hun ji,"Hun ji, sun raha haan",rushed,True,True,4,payment_scheduled,listening,True

@@ -10,7 +10,7 @@ This repo has the case write-up and a working demo on a simulated call log.
 
 ## This data is SIMULATED
 
-The 5,000-call log, the clients, the callers and the provider labels are all fictional. Providers are generic labels such as `STT-B`, `LLM-A` and `TTS-B`. None of this is Bolna production data, and no real customers are in it.
+The 5,000-call log, the clients, the callers and the provider labels are all fictional. Providers are generic labels such as `STT-B`, `LLM-A` and `TTS-B`. None of this is real company data, and no real customers are in it.
 
 I planned and wrote this case. The demo data is simulated: I generated it with AI tools, and AI wrote the SQL from my plain-English questions.
 

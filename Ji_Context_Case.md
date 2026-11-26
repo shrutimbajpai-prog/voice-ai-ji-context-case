@@ -1,6 +1,6 @@
 # Ji isn't always yes: catching context failures before they become complaints
 
-*A case study for Bolna's Product Manager role, by Shruti Bajpai. The call script, scenario and numbers in the scenario are a simulation built to illustrate the problem. None of it is Bolna data.*
+*A product case by Shruti Bajpai. The call script, scenario and numbers in the scenario are a simulation built to illustrate the problem. None of it is real company data.*
 
 ## 1. The problem
 
@@ -96,6 +96,6 @@ I planned and wrote this case. The demo data is simulated: I generated it with A
 
 ![Wrong-consent rate by dialect and provider combination, against the flat average](chart_failure_by_dialect_combo.png)
 
-## 9. A question for Prateek
+## 9. An open question
 
-Syl already makes short replies like "haan" and "ji" far easier to hear. This case is about the next step: what the agent decides after it hears them. Has Bolna already solved this context layer? If not, this is how I'd find it and measure it.
+Syl already makes short replies like "haan" and "ji" far easier to hear. This case is about the next step: what the agent decides after it hears them. Has any voice-AI platform solved this context layer yet? If not, this is how I'd find it and measure it.

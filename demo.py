@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the SIMULATED Bolna call-log demo.
+"""Run the SIMULATED voice-agent call-log demo.
 
 A product manager asks plain-English questions. An AI assistant writes the
 SQL, runs it in DuckDB, and returns the answer. SQL is not presented as a

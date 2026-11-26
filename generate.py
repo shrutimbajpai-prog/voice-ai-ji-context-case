@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate a SIMULATED 5,000-call log for the Bolna PM case demo.
+"""Generate a SIMULATED 5,000-call log for the ji context case demo.
 
 All rows are fictional. There are no real calls, customers or transcripts.
 Re-run with:  python generate.py

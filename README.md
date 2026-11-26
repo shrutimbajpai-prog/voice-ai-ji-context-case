@@ -2,7 +2,7 @@
 
 **Shruti Bajpai**, Founder moving into product management
 
-A case written for Bolna, on catching context failures in Indian voice calls before they become complaints.
+A product case on catching context failures in Indian voice calls before they become complaints.
 
 In Indian voice calls, "ji" is a politeness marker, not an answer. "Haan ji" means yes. "Hun ji" (Punjabi) means "go on, I'm listening." "Ji?" means "sorry, what?" Tone, dialect and a dropped signal can change the meaning, so a voice agent can log a payment the caller never agreed to. Dashboards still look fine, because the average hides the cluster.
 
@@ -32,7 +32,7 @@ On 5,000 simulated calls (16 September to 24 November 2026):
 
 | File | What it is |
 |---|---|
-| [Bolna_Case_Ji.pdf](Bolna_Case_Ji.pdf) / [Bolna_Case_Ji.md](Bolna_Case_Ji.md) | The two-page case |
+| [Ji_Context_Case.pdf](Ji_Context_Case.pdf) / [Ji_Context_Case.md](Ji_Context_Case.md) | The two-page case |
 | [DEMO.md](DEMO.md) | Six plain-English questions, the SQL an AI wrote for each, the result, and a one-line takeaway |
 | `calls.csv` | The 5,000-row simulated call log |
 | `chart_failure_by_dialect_combo.png` | The chart above |
